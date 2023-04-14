@@ -1,0 +1,2 @@
+# github_actions_practice
+練習github_actions
